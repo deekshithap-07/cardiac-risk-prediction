@@ -71,35 +71,27 @@ Emergency Alert
 
 ### System Overview
 
-![Overview](screenshots/system-overview.png)
+!workflow.png
 
 ### Personal Baseline ECG
 
-![Baseline](screenshots/baseline-ecg.png)
+!personal baseline.png
 
 ### Live Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+!normal rate.png
 
 ### Low Risk Prediction
 
-![Low Risk](screenshots/low-risk.png)
+!low risk prediction.png
 
 ### High Risk Prediction
 
-![High Risk](screenshots/high-risk.png)
-
-### Explainable AI
-
-![Explainable AI](screenshots/explainable-ai.png)
-
-### Emergency Alert
-
-![Alert](screenshots/emergency-alert.png)
+!high risk prediction.png
 
 ### Digital Twin Forecast
 
-![Forecast](screenshots/forecasting.png)
+!digital twin forecast.png
 
 ---
 
