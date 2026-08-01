@@ -71,28 +71,27 @@ Emergency Alert
 
 ### System Overview
 
-!workflow.png
+![System Overview](workflow.png)
 
 ### Personal Baseline ECG
 
-!personal baseline.png
+![Personal Baseline ECG](personal baseline.png)
 
 ### Live Dashboard
 
-!normal rate.png
+![Live Dashboard](normal rate.png)
 
 ### Low Risk Prediction
 
-!low risk prediction.png
+![Low Risk Prediction](low risk prediction.png)
 
 ### High Risk Prediction
 
-!high risk prediction.png
+![High Risk Prediction](high risk prediction.png)
 
 ### Digital Twin Forecast
 
-!digital twin forecast.png
-
+![Digital Twin Forecast](digital twin forecast.png)
 ---
 
 ## Future Improvements
